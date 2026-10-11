@@ -22,8 +22,6 @@ Requirements: Node.js 22 and a Gemini API key from [Google AI Studio](https://ai
 3. Open two terminals. In `backend`, run `npm install` and `npm start`. In `frontend`, run `npm install` and `npm run dev`.
 4. Open the local URL printed by Vite.
 
-Never commit `.env` files or publish your API key.
-
 ## Deploy
 
 i pushed this repository to GitHub, then create two services from it:
